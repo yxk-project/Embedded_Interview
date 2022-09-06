@@ -1,0 +1,2 @@
+1、字符串数组与数组处理类似，比较不同的是，字符串数组空格占用字节并且有结尾标志\0。
+2、char *string=“hello word”等级char *string； string=“hello word”
